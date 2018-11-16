@@ -19,13 +19,13 @@
       "title": "Get Pets By Status With Generators",
       "fields": {
         "status": {
-          "label": "Pet Status",
+          "label": "Pet Status1",
           "required": true,
           "viewClass": "SelectView",
           "model": {
-            "available": "Available",
-            "pending": "Pending",
-            "sold": "Sold"
+            "available": "Available1",
+            "pending": "Pending1",
+            "sold": "Sold1"
           },
           "prompt": "Select Pet Status"
         }
